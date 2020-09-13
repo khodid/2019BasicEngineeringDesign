@@ -42,8 +42,7 @@
 ### 어플리케이션
 푸드코트 내 상황을 시뮬레이션하기 위해 만든 어플리케이션이다.
 
-![인앱화면](https://i.ibb.co/Bnx11t1/image.jpg){: width="100" height="500"}
-<img src="https://i.ibb.co/Bnx11t1/image.jpg" width="300" height="300">
+<center><img src="https://i.ibb.co/Bnx11t1/image.jpg" width="300" height="700">
 
 상단 절반은 주문번호가 뜨는 전광판 역할을 하고, 아래는 주문 받는 키오스크 역할을 한다.
 페어링하는 부분을 따로 빼서 만들면 구성 요소가 쓸데없이 많아지는 느낌이라서, 미리 아두이노의 MAC주소를 프로그램에 심어 놓고 원터치로 페어링할 수 있도록 만들었다.
